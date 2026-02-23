@@ -7,7 +7,7 @@ Please download the SMPLX model here: https://smpl-x.is.tue.mpg.de/
 - Git clone the NLF original repo: https://github.com/isarandi/nlf.git  
 - Put this pytorch implementation code inside the repo  
 - Place the SMPLX model inside the repo  
-- Pick your own picture
+- Pick your own picture example
 - Run the demo.py
 
 If you find the code useful, feel free to star!
