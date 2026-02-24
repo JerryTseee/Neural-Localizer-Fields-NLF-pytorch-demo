@@ -8,6 +8,7 @@ Please download the SMPLX model here: https://smpl-x.is.tue.mpg.de/
 - Put this pytorch implementation code inside the repo  
 - Place the SMPLX model inside the repo  
 - Pick your own picture example
-- Run the demo.py
-
+- Run the demo.py, it will output one image and one obj file
+- Run the demo_pkl.py, and then run the demo_rendering.py, it will output pkl file and also animation video  
+  
 If you find the code useful, feel free to star!
