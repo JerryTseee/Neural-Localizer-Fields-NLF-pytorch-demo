@@ -1,6 +1,6 @@
 # Neural-Localizer-Fields-NLF-pytorch-demo  
 
-This is pytorch version implementation for ""Neural Localizer Fields for Continuous 3D Human Pose and Shape Estimation"", the implementation allows SMPLX visualization and OBJ mesh output.  
+This is pytorch version implementation for ""Neural Localizer Fields for Continuous 3D Human Pose and Shape Estimation"", the implementation allows SMPLX visualization and OBJ mesh output (only detect one human in each frame).  
   
 Please download the SMPLX model here: https://smpl-x.is.tue.mpg.de/  
   
